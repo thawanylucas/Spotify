@@ -1,0 +1,36 @@
+:root {
+    /* font */
+
+    --font-dm-sans: "DM Sans", sans-serif;
+
+    /* cores */
+
+    --cor-da-sidebar: #121212;
+    --cor-do-texto: #b3b3b3;
+    --cor-de-fundo: #000;
+    --cor-do-botao: #ffffff;
+    --cinza-destaque: #242424;
+    --playlist-texto: #ffffff;
+    --bg-icon: #b3b3b3;
+    --bg-arrow-color: rgba(0,0,07)
+}
+
+.light-theme {
+    --cor-de-fundo: #ffffff;
+    --cor-do-texto: #141414;
+    --cor-da-sidebar:#d4d4d4;
+    --cor-do-botao: #b3b3b3;
+    --cinza-destaque:#ffffff;
+    --playlist-texto: #000;
+    --bg-arrow-color: #ffffff;
+    --bg-icon: #242424;
+}
+
+.dark-theme {
+    --cor-da-sidebar: #121212;
+    --cor-do-texto: #b3b3b3;
+    --cor-de-fundo: #000;
+    --cor-do-botao: #ffffff;
+    --cinza-destaque: #242424;
+    --playlist-texto: #ffffff;
+}
